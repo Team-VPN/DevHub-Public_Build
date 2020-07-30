@@ -1,1 +1,1 @@
-This is the test build for DevHub.
+This is the test build release of DevHub App.
